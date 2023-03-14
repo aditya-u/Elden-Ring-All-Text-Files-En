@@ -1,2 +1,2 @@
 # Elden-Ring-All-Text-Files-En
-All english text files in Elden Ring
+This repo has every english text file in elden ring unpacked and converted to XML for readability
